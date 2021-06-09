@@ -1,10 +1,11 @@
-button {
+#tapButton {
   height: 100px;
   width: 100px;
   outline: none;
   margin: 10px;
   border: none;
   border-radius: 50%;
+  background-color: green;
 }
 
 button.current {
